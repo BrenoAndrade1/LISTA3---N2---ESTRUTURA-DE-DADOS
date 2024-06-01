@@ -1,10 +1,3 @@
-/*
-**    Função : Ordenação por Merge Sort
-**    Autor : [Seu Nome]
-**    Data  : [Data]
-**    Observações: Este programa classifica os elementos de um vetor em ordem crescente usando o algoritmo de Merge Sort.
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
